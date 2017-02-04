@@ -187,7 +187,7 @@ html, body {
 .dark-screen .logo img{
     position: absolute;
     z-index: 999;
-    left: -76px;
+    left: -77px;
     top: 50%;
     margin-top: -17px;
     display: block;
