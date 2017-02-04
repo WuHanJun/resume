@@ -1,7 +1,6 @@
 /**
  * Created by lenovo on 2017/2/4.
  */
-$(document).ready(function () {
     var workH = $('#works-wrap').offset().top,
         aboutH = $('#about-wrap').offset().top,
         strengthH = $('#strength-wrap').offset().top,
@@ -72,5 +71,5 @@ $(document).ready(function () {
         $('#inside-page').hide();
         setTimeout(show, 2500);
     })
-});
+
 
