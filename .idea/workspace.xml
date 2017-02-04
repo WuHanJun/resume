@@ -2,9 +2,46 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87ad71b4-e2a2-409c-96f9-4736543697f8" name="Default" comment="">
+      <change type="DELETED" beforePath="E:\前端\repos\resume\dir\.idea\.name" afterPath="" />
+      <change type="DELETED" beforePath="E:\前端\repos\resume\dir\.idea\misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\前端\repos\resume\dir\.idea\modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\前端\repos\resume\dir\.idea\resume.iml" afterPath="" />
+      <change type="DELETED" beforePath="E:\前端\repos\resume\dir\.idea\test.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\前端\repos\resume\dir\.idea\vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\前端\repos\resume\dir\.idea\workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\前端\repos\resume\dir\all.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\前端\repos\resume\dir\icon\demo.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\前端\repos\resume\dir\icon\demo_fontclass.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\前端\repos\resume\dir\icon\demo_symbol.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\前端\repos\resume\dir\icon\demo_unicode.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\前端\repos\resume\dir\icon\download (1).zip" afterPath="" />
+      <change type="DELETED" beforePath="E:\前端\repos\resume\dir\smooth-scroll-master\.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="E:\前端\repos\resume\dir\smooth-scroll-master\.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="E:\前端\repos\resume\dir\smooth-scroll-master\CONTRIBUTING.md" afterPath="" />
+      <change type="DELETED" beforePath="E:\前端\repos\resume\dir\smooth-scroll-master\LICENSE.md" afterPath="" />
+      <change type="DELETED" beforePath="E:\前端\repos\resume\dir\smooth-scroll-master\README.md" afterPath="" />
+      <change type="DELETED" beforePath="E:\前端\repos\resume\dir\smooth-scroll-master\dist\js\smooth-scroll.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\前端\repos\resume\dir\smooth-scroll-master\dist\js\smooth-scroll.min.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\前端\repos\resume\dir\smooth-scroll-master\docs\dist\js\smooth-scroll.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\前端\repos\resume\dir\smooth-scroll-master\docs\dist\js\smooth-scroll.min.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\前端\repos\resume\dir\smooth-scroll-master\docs\index.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\前端\repos\resume\dir\smooth-scroll-master\gulpfile.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\前端\repos\resume\dir\smooth-scroll-master\package.json" afterPath="" />
+      <change type="DELETED" beforePath="E:\前端\repos\resume\dir\smooth-scroll-master\src\docs\_templates\_footer.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\前端\repos\resume\dir\smooth-scroll-master\src\docs\_templates\_header.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\前端\repos\resume\dir\smooth-scroll-master\src\docs\index.md" afterPath="" />
+      <change type="DELETED" beforePath="E:\前端\repos\resume\dir\smooth-scroll-master\src\js\smooth-scroll.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dir/image/desktop.jpg" afterPath="$PROJECT_DIR$/dir/image/desktop.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dir/image/github.png" afterPath="$PROJECT_DIR$/dir/image/github.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dir/image/logo.png" afterPath="$PROJECT_DIR$/dir/image/logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dir/image/me.jpg" afterPath="$PROJECT_DIR$/dir/image/me.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dir/image/qq.jpg" afterPath="$PROJECT_DIR$/dir/image/qq.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dir/image/weixin.jpg" afterPath="$PROJECT_DIR$/dir/image/weixin.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dir/image/work01.jpg" afterPath="$PROJECT_DIR$/dir/image/work01.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dir/image/work02.jpg" afterPath="$PROJECT_DIR$/dir/image/work02.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dir/image/work03.jpg" afterPath="$PROJECT_DIR$/dir/image/work03.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dir/image/work04.jpg" afterPath="$PROJECT_DIR$/dir/image/work04.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dir/index.html" afterPath="$PROJECT_DIR$/dir/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dir/style.css" afterPath="$PROJECT_DIR$/dir/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="resume.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,10 +65,17 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dir/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.25408804">
-              <caret line="33" column="14" selection-start-line="33" selection-start-column="14" selection-end-line="33" selection-end-column="14" />
+            <state vertical-scroll-proportion="1.8754717">
+              <caret line="242" column="39" selection-start-line="242" selection-start-column="39" selection-end-line="242" selection-end-column="39" />
               <folding />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="name5.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dir/image/name5.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -40,16 +84,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-7.1621623">
               <caret line="186" column="23" selection-start-line="186" selection-start-column="23" selection-end-line="186" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="all.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dir/all.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -65,8 +99,8 @@
       <list>
         <option value="$PROJECT_DIR$/resume/style.css" />
         <option value="$PROJECT_DIR$/dir/all.js" />
-        <option value="$PROJECT_DIR$/dir/index.html" />
         <option value="$PROJECT_DIR$/dir/style.css" />
+        <option value="$PROJECT_DIR$/dir/index.html" />
       </list>
     </option>
   </component>
@@ -78,8 +112,8 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="463" />
-    <option name="y" value="27" />
+    <option name="x" value="344" />
+    <option name="y" value="14" />
     <option name="width" value="1471" />
     <option name="height" value="1001" />
   </component>
@@ -212,7 +246,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="463" y="27" width="1471" height="1001" extended-state="0" />
+    <frame x="344" y="14" width="1471" height="1001" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24982794" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -242,14 +276,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/dir/all.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dir/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-7.1621623">
@@ -258,10 +284,15 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/dir/image/name5.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/dir/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.25408804">
-          <caret line="33" column="14" selection-start-line="33" selection-start-column="14" selection-end-line="33" selection-end-column="14" />
+        <state vertical-scroll-proportion="1.8754717">
+          <caret line="242" column="39" selection-start-line="242" selection-start-column="39" selection-end-line="242" selection-end-column="39" />
           <folding />
         </state>
       </provider>
