@@ -225,10 +225,10 @@ html, body {
     border: none;
 }
 .light-screen .wrap {
-    vertical-align: middle;
     overflow: hidden;
     position: relative; /*溢出的元素如果是绝对定位，那overflow:hidden的元素必须为溢出元素的基准元素。也就是必须有relative或者absolute*/
-
+    width: 100%;
+    height: 100%;
 }
 .light-screen {
     z-index: 3;
