@@ -23,6 +23,9 @@ h2 {
 h3 {
     font-size: 20px;
 }
+h5 {
+    font-size: 18px;
+}
 html, body {
     height: 100%;
     font: 16px/1.5 'Microsoft YaHei',arial,tahoma,\5b8b\4f53,sans-serif;
