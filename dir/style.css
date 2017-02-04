@@ -131,6 +131,7 @@ html, body {
 .dark-screen .go-works a{
     position: absolute;
     top: 50%;
+    left: 50%;
     margin-top: -20px;
     display: inline-block;
     height: 40px;
