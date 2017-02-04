@@ -30,7 +30,7 @@ $(document).ready(function () {
     })
     $('.light-screen').on('mouseleave', function () {
         $(this).find('.author').animate({
-            top: '-5%'
+            top: '-11%'
         })
     })
     $('.light-screen').on('mouseenter', function () {
@@ -40,7 +40,7 @@ $(document).ready(function () {
     })
     $('.light-screen').on('mouseleave', function () {
         $(this).find('.social-link').animate({
-            bottom: '-5%'
+            bottom: '-11%'
         })
     })
 
