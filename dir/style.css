@@ -24,6 +24,9 @@ h3 {
     font-size: 25px;
 }
 h5 {
+    font-size: 22px;
+}
+h6 {
     font-size: 18px;
 }
 html, body {
@@ -414,10 +417,23 @@ html, body {
 }
 .works .work-item-right {
     float: left;
-    padding: 30px 55px;
+    padding: 30px 0 30px 40px;
+    box-sizing: border-box;
+    width: 50%;
 }
-.works .work-item-right h5 {
-    margin-bottom: 20px;
+.works .work-item-right .title {
+    margin-bottom: 21px;
+    font-size: 25px;
+    font-weight: bold;
+    display: block;
+}
+.works .work-item-right .child-title {
+    margin-bottom: 6px;
+    display: block;
+}
+.works .work-item-right .description {
+    line-height: 1.5em;
+    display: block;
 }
 .works .work-item-left .work-item-cover {
     position: absolute;
