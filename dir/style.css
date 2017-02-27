@@ -430,10 +430,12 @@ html, body {
 .works .work-item-right .child-title {
     margin-bottom: 6px;
     display: block;
+    font-weight: bold;
 }
 .works .work-item-right .description {
     line-height: 1.5em;
     display: block;
+    font-weight: normal;
 }
 .works .work-item-left .work-item-cover {
     position: absolute;
